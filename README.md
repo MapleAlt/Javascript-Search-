@@ -8,5 +8,4 @@ This is one of the most simple engines. You must search up something random on g
 # Console
 [Console Script](https://github.com/MapleAlt/Javascript-Search-/blob/main/Console.js)
 
-There is no further documentaton. Enjoy!
-
+There is no further documentation so please enjoy!
