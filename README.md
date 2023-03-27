@@ -6,4 +6,4 @@ Javascript search is a simple restriction free search engine! Use this how ever 
 # Beta
 [Current Beta](https://github.com/MapleAlt/Javascript-Search-/blob/main/Beta.js)
 
-Project status: [Status(https://github.com/MapleAlt/Javascript-Search-/blob/main/Status)
+Project status: [Status](https://github.com/MapleAlt/Javascript-Search-/blob/main/Status)
