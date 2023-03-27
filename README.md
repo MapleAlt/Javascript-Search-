@@ -16,4 +16,4 @@ This project is made by Maple and Maskedwrrg If you make a custom version of thi
 We are not responsible if you get in trouble.
 Enjoy!
 
-It is not out right now but if you want it try the beta
+It is not out right now but if you want it try the beta!
