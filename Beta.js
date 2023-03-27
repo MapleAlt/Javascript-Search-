@@ -1,1 +1,1 @@
-// No beta active please use the regular version
+// There is no current beta
