@@ -4,6 +4,6 @@ Javascript search is a simple restriction free search engine! Use this how ever 
 # Engine
 [Bookmarklet](https://github.com/MapleAlt/Javascript-Search-/blob/main/Engine.js)
 # Beta
-[Current Beta](https://github.com/MapleAlt/Javascript-Search-/blob/main/Engine.js)
+[Current Beta](https://github.com/MapleAlt/Javascript-Search-/blob/main/Beta.js)
 
 There is no further documentation. Enjoy!
