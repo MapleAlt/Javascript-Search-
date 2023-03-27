@@ -10,4 +10,9 @@ Javascript search is a simple restriction free search engine! Use this how ever 
 
 Project status: [Status](https://github.com/MapleAlt/Javascript-Search-/blob/main/Status)
 
-# Made by Maple and Maskedwrrg
+# Other
+
+This project is made by Maple and Maskedwrrg If you make a custom version of this please give credit to both of us.
+Once more we want to say that we are not responsible if you get in trouble.
+use this well and do not get caught.
+Have Fun!
