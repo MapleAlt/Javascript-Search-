@@ -8,7 +8,7 @@ Javascript search is a simple restriction free search engine! Use this how ever 
 
 # Status
 
-Project status: [Status](https://github.com/MapleAlt/Javascript-Search-/blob/main/Status)
+Project status: [Current Project Status](https://github.com/MapleAlt/Javascript-Search-/blob/main/Status)
 
 # Other
 
