@@ -1,6 +1,6 @@
 # Javascript-Search-
 ![Logog](https://github.com/MapleAlt/Javascript-Search-/blob/main/Engine-Logo.png)
-Javascript search is a simple javascript search engine! just copy and paste the code in a bookmark and follow the instructions when you run it. If you want to use it on the same tab over 1 time you might have to refresh. If you get in trouble it is not our problem! This is still in beta so dont expect much. 
+Javascript search is a simple javascript search engine(It does not unblock websites) just copy and paste the code in a bookmark and follow the instructions when you run it. If you want to use it on the same tab over 1 time you might have to refresh. If you get in trouble it is not our problem! This is still in beta so dont expect much. 
 # Engine
 [Bookmarklet](https://github.com/MapleAlt/Javascript-Search-/blob/main/Engine.js)
 # Beta
