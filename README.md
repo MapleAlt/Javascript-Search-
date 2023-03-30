@@ -15,6 +15,7 @@ Project status: [Current Project Status](https://github.com/MapleAlt/Javascript-
 This project is made by Maple and Maskedwrrg If you make a custom version of this please give credit to both of us.
 
 This code does not alter or unblock websites.
+
 Enjoy!
 
 If you want more information check the status!
