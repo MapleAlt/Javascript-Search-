@@ -14,6 +14,6 @@ Project status: [Current Project Status](https://github.com/MapleAlt/Javascript-
 
 This project is made by Maple and Maskedwrrg If you make a custom version of this please give credit to both of us.
 
-If you want the information on the next comming update or more, check the status!
+If you want the information on the next comming update or more check the status!
 
 Enjoy!
