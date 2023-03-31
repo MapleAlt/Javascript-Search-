@@ -4,7 +4,7 @@ Javascript search is a simple javascript search engine. just copy and paste the 
 # Google Search
 [Bookmarklet](https://github.com/MapleAlt/Javascript-Search-/blob/main/GoogleSearch.js)
 # Website Search
-[Engine] (https://github.com/MapleAlt/Javascript-Search-/blob/main/WebsiteSearch.js)
+[Engine](https://github.com/MapleAlt/Javascript-Search-/blob/main/WebsiteSearch.js)
 # Beta
 [Current Beta](https://github.com/MapleAlt/Javascript-Search-/blob/main/Beta.js)
 
