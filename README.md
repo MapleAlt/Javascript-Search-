@@ -19,5 +19,3 @@ This project is made by Maple and Maskedwrrg If you make a custom version of thi
 If you want the information on the next comming update or more then check the status!
 
 Enjoy!
-
-I will be no longer working on this project. Please check out my other projects!
